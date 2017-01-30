@@ -1,18 +1,18 @@
 {
-    "name": "topthink/think",
-    "description": "the new thinkphp framework",
+    "name": "terranc/think-base",
+    "description": "",
     "type": "project",
     "keywords": [
         "framework",
         "thinkphp",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "http://lookfeel.co/",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "terranc",
+            "email": "terran.chao@gmail.com"
         }
     ],
     "require": {
@@ -26,7 +26,6 @@
         "topthink/think-helper": "^1.0",
         "topthink/think-image": "^1.0",
         "topthink/think-queue": "^1.1",
-        "hooklife/thinkphp5-wechat": "^1.1"
     },
     "extra": {
         "think-path": "thinkphp"

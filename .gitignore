@@ -1,5 +1,7 @@
 .idea
 composer.lock
 *.log
-thinkphp
+/thinkphp/
 .env
+/vendor/
+/.idea/
