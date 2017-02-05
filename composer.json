@@ -26,10 +26,12 @@
         "topthink/think-helper": "^1.0",
         "topthink/think-image": "^1.0",
         "topthink/think-queue": "^1.1",
+        "terranc/think-blade": "dev-master"
     },
     "extra": {
         "think-path": "thinkphp"
     },
+    "minimum-stability": "dev",
     "config": {
         "preferred-install": "dist"
     }
